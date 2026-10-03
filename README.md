@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of nodeloc/flarum-auto-moderator.** Not for installation: use [Packagist](https://packagist.org/packages/nodeloc/flarum-auto-moderator) or the [upstream repository](https://github.com/nodeloc/flarum-auto-moderator).
 
-**0** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/nodeloc-flarum-auto-moderator/tree/archive/v0.0.3) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/nodeloc-flarum-auto-moderator/tree/archive/v0.0.3) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2023-12-07 | `^1.0.0` | [Browse](https://github.com/flarchive/nodeloc-flarum-auto-moderator/tree/archive/v0.0.1) |
+| `0.0.2` | 2024-08-29 | `^1.0.0` | [Browse](https://github.com/flarchive/nodeloc-flarum-auto-moderator/tree/archive/v0.0.2) |
+| `0.0.3` | 2024-08-30 | `^1.0.0` | [Browse](https://github.com/flarchive/nodeloc-flarum-auto-moderator/tree/archive/v0.0.3) |
 
 Catalog entry: [packages/nodeloc-flarum-auto-moderator.json](https://github.com/flarchive/archive-index/blob/main/packages/nodeloc-flarum-auto-moderator.json)
 
